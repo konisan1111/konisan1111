@@ -3,7 +3,9 @@
 Hey fellow users! 👋 I'm コニ (Koni)! A game developer who loves coding, drawing, and vibing to electronic music genres! ✨🎧
 ### 💻 About Me:
 ・　I'm a 17 years old student in Debrecen (Hungary). 📚
+
 ・　I can't work in groups, only alone. ( so I'm usually working by myself) 🤦‍♂️
+
 ・　I have no life 🎮
 
 ![](https://komarev.com/ghpvc/?username=nikkeisadev&color=grey&style=for-the-badge)

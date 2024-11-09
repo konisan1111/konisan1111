@@ -1,12 +1,10 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikkeisadev&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-## 🟢 A wild Phantone has appeared! 
-Hey fellow users! 👋 I'm phantone! A game developer who loves coding, drawing, and vibing to electronic music genres! ✨🎧
+![Untitled](https://github.com/user-attachments/assets/521cb2ed-fcc0-4de3-aa9c-bd4a62e4b769)
+
+Hey fellow users! 👋 I'm コニ (Koni)! A game developer who loves coding, drawing, and vibing to electronic music genres! ✨🎧
 ### 💻 About Me:
-- I'm a 17 years old student in Debrecen (Hungary). 📚
-- I can't work in groups, only alone. 🤦‍♂️
-- I'm usually working by myself 💻
-- I have no life 🎮
-- I'm coding in: Python, C#, Dart. 👨‍💻
+・　I'm a 17 years old student in Debrecen (Hungary). 📚
+・　I can't work in groups, only alone. ( so I'm usually working by myself) 🤦‍♂️
+・　I have no life 🎮
 
 ![](https://komarev.com/ghpvc/?username=nikkeisadev&color=grey&style=for-the-badge)
 ### 💬 Contact:

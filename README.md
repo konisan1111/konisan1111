@@ -8,7 +8,7 @@ Howdy! Name is Koni, a guy who loves inline skating, doing pixelarts, designing 
 
 ---
 
-[![Dont you dare...]()](https://konisan1111.github.io)
+[![Dont you dare...](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/dont_you_dare_click_me.png)](https://konisan1111.github.io)
 
 ---
 

@@ -14,6 +14,12 @@ Howdy! Name is Koni, a guy who loves inline skating, doing pixelarts, designing 
 
 [![trophy](https://github-profile-trophy-roan.vercel.app/?username=konisan1111&theme=aura)](https://konisan1111.github.io)
 
+---
+
+## 💻My projects
+
+![Projects image full of logos](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/projects.png)
+
 ## 🛠️ Tech & Platforms
 
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)]()

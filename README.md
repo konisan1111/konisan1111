@@ -1,4 +1,4 @@
-
+![Koni's Banner On Github](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/github_banner.png)
 
 Howdy! Name is Koni, a guy who loves inline skating, doing pixelarts, designing logos and stuff, and of course game development.
 

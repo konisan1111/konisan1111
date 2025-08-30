@@ -8,6 +8,10 @@ Howdy! Name is Koni, a guy who loves inline skating, doing pixelarts, designing 
 
 ---
 
+[![Dont you dare...]()](https://konisan1111.github.io)
+
+---
+
 [![trophy](https://github-profile-trophy-roan.vercel.app/?username=konisan1111&theme=aura)](https://konisan1111.github.io)
 
 ## 🛠️ Tech & Platforms

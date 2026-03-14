@@ -17,6 +17,7 @@ Howdy! Name is Koni, a guy who loves inline skating, doing pixelarts, designing 
 ---
 
 ## 💻My projects
+You can find my work here, a mix of school projects, and my own ideas. (╹ڡ╹ )
 
 ![Projects image full of logos](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/projects.png)
 

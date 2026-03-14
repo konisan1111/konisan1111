@@ -1,4 +1,4 @@
-![Koni's Banner On Github](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/github_banner.png)
+![Koni's Banner On Github](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/koni111_github.png)
 
 Howdy! Name is Koni, a guy who loves inline skating, doing pixelarts, designing logos and stuff, and of course game development.
 
@@ -12,7 +12,7 @@ Howdy! Name is Koni, a guy who loves inline skating, doing pixelarts, designing 
 
 ---
 
-[![trophy](https://github-profile-trophy-roan.vercel.app/?username=konisan1111&theme=aura)](https://konisan1111.github.io)
+[![trophy](https://github-trophies.vercel.app/?username=konisan1111&theme=onestar)](https://konisan1111.github.io)
 
 ---
 

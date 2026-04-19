@@ -6,13 +6,11 @@
 💬 You can message me on the platforms below.  
 🥺 Check out my work here.
 
----
 
 ## 🏆 Trophies 
 
 [![trophy](https://github-trophies.vercel.app/?username=konisan1111&theme=onestar)](https://konisan1111.github.io)
 
----
 
 ## 💻 My projects
 You can find my work here, a mix of school projects, and my own ideas. (╹ڡ╹ )
@@ -37,7 +35,5 @@ You can find my work here, a mix of school projects, and my own ideas. (╹ڡ╹
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ERtqm3C5Fc)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/konisoft_hu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/konisoft_hu)
-
----
 
 ![github-snake](https://github.com/coni111/coni111/assets/137056695/1cf3abe4-34c2-4c10-875b-a2de9d4b78f3)

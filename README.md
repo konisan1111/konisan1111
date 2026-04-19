@@ -1,25 +1,23 @@
 ![Koni's Banner On Github](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/koni111_github.png)
 
-Howdy! Name is Koni, a guy who loves inline skating, doing pixelarts, designing logos and stuff, and of course game development.
+### Howdy! Name is Koni ^^, a guy who loves inline skating, doing pixelarts, designing logos and stuff, and of course game development.
 
 🎮 Explore my website at [konisoft.hu](https://konisoft.hu)  
 💬 You can message me on the platforms below.  
-![Projects image full of logos](https://i.ibb.co/tMWvRfR9/github-projects.png)
-
 🥺 Check out my work here.
 
 ---
 
-### [Click me only if you dare... ☝️😌](https://konisan1111.github.io)
-
----
+## 🏆 Trophies 
 
 [![trophy](https://github-trophies.vercel.app/?username=konisan1111&theme=onestar)](https://konisan1111.github.io)
 
 ---
 
-## 💻My projects
+## 💻 My projects
 You can find my work here, a mix of school projects, and my own ideas. (╹ڡ╹ )
+
+![Projects image full of logos](https://i.ibb.co/tMWvRfR9/github-projects.png)
 
 ## 🛠️ Tech & Platforms
 

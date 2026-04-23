@@ -1,39 +1,60 @@
 ![Koni's Banner On Github](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/koni111_github.png)
 
-### Howdy! Name is Koni ^^, a guy who loves inline skating, doing pixelarts, designing logos and stuff, and of course game development.
+### Howdy! Name is Koni ^^, a guy who loves doing pixelarts, designing logos and stuff, and of course game development.
 
-🎮 Explore my website at [konisoft.hu](https://konisoft.hu)  
-💬 You can message me on the platforms below.  
-🥺 Check out my work here.
+Explore my website at [konisoft.hu](https://konisoft.hu) 🎮
+
+You can message me on the platforms below 💬
+
+Check out my work here plz 🥺🙏 ...NOOOOW 🤞😘
+
+## 📚 About Me .　　˚ 　　　 ˚　.˚　✦
+I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game development, and that's what I'm known for there. Uhhh I like eating spagetthi, and anything that tastes good but and aint leathal (❤ ω ❤) I like aNiMeEeEe, and even more suprising, I touch grass, uhhh sometimes. 
+
+Certified internet goofball 😝
 
 
-## 🏆 Trophies 
 
-[![trophy](https://github-trophies.vercel.app/?username=konisan1111&theme=onestar)](https://konisan1111.github.io)
+## 🏆 Trophies ˚　　　　✦　　　.　　. 　 ˚　
 
+<p align="center">
+    <img src="https://github-trophies.vercel.app/?username=konisan1111&theme=onestar"/>
+</p>
 
-## 💻 My projects
+## 💻 My projects .　　　　　 . ✦　　　 　˚　　
 You can find my work here, a mix of school projects, and my own ideas. (╹ڡ╹ )
 
-![Projects image full of logos](https://i.ibb.co/tMWvRfR9/github-projects.png)
+<p align="center">
+    <img src="https://i.ibb.co/TMrtzh44/github-projects.png"/>
+</p>
 
-## 🛠️ Tech & Platforms
+## 🛠️ Tech & Platforms 　　.　　. 　 ˚　.　　　　　 . ✦　
+I work with these technologies! (yes, I intentionally altered with the colors)
 
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)]()
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)]()
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)]()
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![REST API](https://img.shields.io/badge/REST%20API-0052CC?style=for-the-badge&logo=json&logoColor=white)](https://restfulapi.net/)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-F53131?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FF4500?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-ADFF2F?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unity-32CD32?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-55E6AE?style=for-the-badge&logo=dot-net&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-00CED1?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-1E90FF?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-6C52FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-723CB5?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-913ABD?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Itch.io-A93ABD?style=for-the-badge&logo=itch.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-BD3AB9?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-## 💬 Socials
+## 💬 Socials 　 . ✦　　　 　˚　　　　 . ★⋆.
+If you want to message me, you can do it on my socials!
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ERtqm3C5Fc)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/konisoft_hu)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/konisoft_hu)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/katona.konstantin)
 
+## gItHuB sNaKe ˋ( ° ▽、° ) 
+cuz why not ww
 ![github-snake](https://github.com/coni111/coni111/assets/137056695/1cf3abe4-34c2-4c10-875b-a2de9d4b78f3)

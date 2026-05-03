@@ -9,7 +9,7 @@ You can message me on the platforms below 💬
 Check out my work here plz 🥺🙏 ...NOOOOW 🤞😘
 
 ## 📚 About Me .　　˚ 　　　 ˚　.˚　✦
-I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game development, and that's what I'm known for there. Uhhh I like eating spagetthi, and anything that tastes good but and aint leathal (❤ ω ❤) I like aNiMeEeEe, and even more suprising, I touch grass, uhhh sometimes. 
+I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game development, and that's what I'm known for there. Uhhh I like eating spagetthi, and anything that tastes good but aint leathal (❤ ω ❤) I like aNiMeEeEe, and even more suprising, I touch grass, uhhh sometimes. 
 
 Certified internet goofball 😝
 

@@ -25,7 +25,7 @@ Certified internet goofball 😝
 You can find my work here, a mix of school projects, and my own ideas. (╹ڡ╹ )
 
 <p align="center">
-    <img src="https://i.ibb.co/TMrtzh44/github-projects.png"/>
+    <img src="https://i.ibb.co/DPLZJ50t/68747470733a2f2f692e6962622e636f2f544d72747a6834342f6769746875622d70726f6a656374732e706e67.png"/>
 </p>
 
 ## 🛠️ Tech & Platforms 　　.　　. 　 ˚　.　　　　　 . ✦　

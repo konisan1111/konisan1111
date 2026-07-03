@@ -1,19 +1,12 @@
 ![Koni's Banner On Github](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/koni111_github.png)
 
-### Howdy! Name is Koni ^^, a guy who loves doing pixelarts, designing logos and stuff, and of course game development with 10+ years of experience in it. (I was 9 years old when I started lol)
+### Howdy! 
+### Name is Koni ^^, a guy who loves doing pixelarts, designing logos and stuff, and of course game development with 10+ years of experience in it. (I was 9 years old when I started)
 
 Explore my website at [konisoft.hu](https://konisoft.hu) 🎮
 
-You can message me on the platforms below 💬
-
-Check out my work here plz 🥺🙏 ...NOOOOW 🤞😘
-
 ## 📚 About Me .　　˚ 　　　 ˚　.˚　✦
-I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game development, and that's what I'm known for there. Uhhh I like eating spagetthi, and anything that tastes good but aint leathal (❤ ω ❤) I like aNiMeEeEe, and even more suprising, I touch grass, uhhh sometimes. 
-
-Certified internet goofball 😝
-
-
+I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game development, and that's what I'm known for there.
 
 ## 🏆 Trophies ˚　　　　✦　　　.　　. 　 ˚　
 

@@ -7,7 +7,7 @@
 
 ### Howdy! 
 ### Name is Koni ^^, a guy who loves doing pixelarts, designing logos and stuff, and of course game development with 10+ years of experience in it. (I was 9 years old when I started)
-I was introduced to game developing at a really young age, giving a base for my future passion. 
+I was introduced to game development at a really young age, giving a base for my future passion. 
 
 Explore my website at [konisoft.hu](https://konisoft.hu) 🎮
 

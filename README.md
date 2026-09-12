@@ -2,6 +2,7 @@
 
 ### Howdy! 
 ### Name is Koni ^^, a guy who loves doing pixelarts, designing logos and stuff, and of course game development with 10+ years of experience in it. (I was 9 years old when I started)
+I was introduced to game developing at a really young age, giving a base for my future passion. 
 
 Explore my website at [konisoft.hu](https://konisoft.hu) 🎮
 
@@ -11,11 +12,11 @@ I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game d
 ## 🔴 Videos .　　˚ 　.　✦ . 　　　 ˚
 I made videos about my projects. Check them out if you are interested.
 
-DEPLOY (Better School Cyber Security System) https://www.youtube.com/watch?v=JQs-k96bgkI
+- DEPLOY (Better School Cyber Security System) https://www.youtube.com/watch?v=JQs-k96bgkI
 
-Sentry (Better School Cyber Security System) https://www.youtube.com/watch?v=pboiQy_5B8g
+- Sentry (Better School Cyber Security System) https://www.youtube.com/watch?v=pboiQy_5B8g
 
-Lumi Dungeon Of Dreadspire https://youtu.be/gmO1is2T_8U
+- Lumi Dungeon Of Dreadspire https://youtu.be/gmO1is2T_8U
 
 ## 🏆 Trophies ˚　　　　✦　　　.　　. 　 ˚　
 

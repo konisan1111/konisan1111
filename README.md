@@ -18,13 +18,17 @@ I made videos about my projects. Check them out if you are interested.
 
 - Lumi Dungeon Of Dreadspire https://youtu.be/gmO1is2T_8U
 
+## 💻 Capstone Project 　 . ✦　　　 　˚　　　　 . ★⋆.
+
+- Konisoft Speedruns Webpage https://github.com/konisan111/Konisoft-Speedruns
+
 ## 🏆 Trophies ˚　　　　✦　　　.　　. 　 ˚　
 
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=konisan1111&theme=onestar"/>
 </p>
 
-## 💻 My projects .　　　　　　　　 　˚　　
+## 💻 My projects .　　　.˚　✦　　　 　˚　　
 You can find my work here, a mix of school projects, and my own ideas. (╹ڡ╹ )
 
 <p align="center">

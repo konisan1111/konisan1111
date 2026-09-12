@@ -1,5 +1,10 @@
 ![Koni's Banner On Github](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/koni111_github.png)
 
+<p align="center"> 
+    <img src="https://konisoft.hu&style=for-the-badge" alt="koni1111"/>
+    <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=konisan1111&repo=konisan1111&countColorcountColor&countColor=%237B1E7B"/>
+</p>
+
 ### Howdy! 
 ### Name is Koni ^^, a guy who loves doing pixelarts, designing logos and stuff, and of course game development with 10+ years of experience in it. (I was 9 years old when I started)
 I was introduced to game developing at a really young age, giving a base for my future passion. 

@@ -1,7 +1,7 @@
 ![Koni's Banner On Github](https://raw.githubusercontent.com/konisan1111/konisan1111/refs/heads/main/koni111_github.png)
 
 <p align="center"> 
-    <img src="https://img.shields.io/twitter/follow/dhanushkadev?logo=twitter&style=for-the-badge" alt="koni1111" />
+    <img src="https://img.shields.io/twitter/follow/koni1111?logo=twitter&style=for-the-badge" alt="koni1111" />
     <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=konisan1111&repo=konisan1111&countColorcountColor&countColor=%237B1E7B"/>
 </p>
 

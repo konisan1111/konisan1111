@@ -13,9 +13,7 @@ I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game d
 I made videos about my projects. Check them out if you are interested.
 
 - DEPLOY (Better School Cyber Security System) https://www.youtube.com/watch?v=JQs-k96bgkI
-
 - Sentry (Better School Cyber Security System) https://www.youtube.com/watch?v=pboiQy_5B8g
-
 - Lumi Dungeon Of Dreadspire https://youtu.be/gmO1is2T_8U
 
 ## 💻 Capstone Project 　 . ✦　　　 　˚　　　　 . ★⋆.

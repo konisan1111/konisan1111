@@ -20,12 +20,12 @@ I made videos about my projects. Check them out if you are interested.
 
 - Konisoft Speedruns Webpage https://github.com/konisan111/Konisoft-Speedruns
 
-## 🏆 Special Projects
+## 🏆 Special Projects .　　. 　 ˚　.　　　　　 . ✦　
 
 - Sentry https://github.com/konisan1111/Sentry
 - Fishingline https://github.com/konisan1111/Fishingline
 
-## 📦 Smaller Projects
+## 📦 Smaller Projects .　　˚ 　　　 ˚　.˚　✦
 
 - Kana Renshu https://github.com/konisan1111/KanaRenshu
 - funcWave https://github.com/konisan1111/funcWave

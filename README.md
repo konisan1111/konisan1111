@@ -8,13 +8,20 @@ Explore my website at [konisoft.hu](https://konisoft.hu) 🎮
 ## 📚 About Me .　　˚ 　　　 ˚　.˚　✦
 I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game development, and that's what I'm known for there.
 
+## 🔴 Videos .　　˚ 　.　✦ . 　　　 ˚
+I made videos about my projects. Check them out if you are interested.
+
+DEPLOY (Better School Cyber Security System) https://www.youtube.com/watch?v=JQs-k96bgkI
+Sentry (Better School Cyber Security System) https://www.youtube.com/watch?v=pboiQy_5B8g
+Lumi Dungeon Of Dreadspire https://youtu.be/gmO1is2T_8U
+
 ## 🏆 Trophies ˚　　　　✦　　　.　　. 　 ˚　
 
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=konisan1111&theme=onestar"/>
 </p>
 
-## 💻 My projects .　　　　　 . ✦　　　 　˚　　
+## 💻 My projects .　　　　　　　　 　˚　　
 You can find my work here, a mix of school projects, and my own ideas. (╹ڡ╹ )
 
 <p align="center">
@@ -46,7 +53,6 @@ I work with these technologies! (yes, I intentionally altered with the colors)
 If you want to message me, you can do it on my socials!
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ERtqm3C5Fc)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/katona.konstantin)
 
 ## gItHuB sNaKe ˋ( ° ▽、° ) 
 cuz why not ww

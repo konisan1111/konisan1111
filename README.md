@@ -14,6 +14,9 @@ Explore my website at [konisoft.hu](https://konisoft.hu) 🎮
 ## 📚 About Me .　　˚ 　　　 ˚　.˚　✦
 I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game development, and that's what I'm known for there.
 
+## 🕹️ Konisoft Indie Game Studio (Hungary) .　　. 　 ˚　.　　　　　 . ✦　
+Konisoft is a solo indie game studio based in Hungary. What started in 2016 with small Unity projects officially evolved into its current form in 2024. Today, Konisoft develops games backed by a decade of experience in the field.
+
 ## 🔴 Videos .　　˚ 　.　✦ . 　　　 ˚
 Videos of me and my projects. Check them out if you are interested.
 

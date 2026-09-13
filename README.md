@@ -9,13 +9,13 @@
 ### Name is Koni ^^, a guy who loves doing pixelarts, designing logos and stuff, and of course game development with 10+ years of experience in it. (I was 9 years old when I started)
 I was introduced to game development at a really young age, giving a base for my future passion. 
 
-Explore my website at [konisoft.hu](https://konisoft.hu) 🎮
-
 ## 📚 About Me .　　˚ 　　　 ˚　.˚　✦
 I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game development, and that's what I'm known for there.
 
 ## 🕹️ Konisoft Indie Game Studio (Hungary) .　　. 　 ˚　.　　　　　 . ✦　
 Konisoft is a solo indie game studio based in Hungary. What started in 2016 with small Unity projects officially evolved into its current form in 2024. Today, Konisoft develops games backed by a decade of experience in the field.
+
+# Explore my website at [konisoft.hu](https://konisoft.hu)
 
 ## 🔴 Videos .　　˚ 　.　✦ . 　　　 ˚
 Videos of me and my projects. Check them out if you are interested.

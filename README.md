@@ -15,12 +15,16 @@ Explore my website at [konisoft.hu](https://konisoft.hu) 🎮
 I'm Koni, a hungarian student who lives in Debrecen. I'm passionate about game development, and that's what I'm known for there.
 
 ## 🔴 Videos .　　˚ 　.　✦ . 　　　 ˚
-I made videos about my projects. Check them out if you are interested.
+Videos of me and my projects. Check them out if you are interested.
 
 - DEPLOY (Better School Cyber Security System) https://www.youtube.com/watch?v=JQs-k96bgkI
 - Sentry (Better School Cyber Security System) https://www.youtube.com/watch?v=pboiQy_5B8g
 - Lumi Dungeon Of Dreadspire https://youtu.be/gmO1is2T_8U
-
+- Virtual model of Kráter tó near Nagyhegyes https://www.youtube.com/watch?v=M2Zde2JjPNU
+- Interview of me when I was 11 https://www.youtube.com/watch?v=nnhJjAMKceE
+- I got first place on the Neumann Competition at Szekszárd https://youtu.be/SJkq663UmaA?t=20428
+- My presentation on the same competition https://youtu.be/auUydPdOg0c?t=9456
+  
 ## 💻 Capstone Project 　 . ✦　　　 　˚　　　　 . ★⋆.
 
 - Konisoft Speedruns Webpage https://github.com/konisan111/Konisoft-Speedruns
